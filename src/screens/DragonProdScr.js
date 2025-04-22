@@ -483,7 +483,7 @@ const DragonProdScr = ({navigation, route}) => {
           }}>
           <Image
             style={{width: 30, height: 33}}
-            source={require('../../assets/arrow77.png')}
+            source={require('../assets/upgr/arrow77.png')}
           />
         </TouchableOpacity>
 
@@ -495,7 +495,7 @@ const DragonProdScr = ({navigation, route}) => {
           }}>
           <Image
             style={{width: 30, height: 30}}
-            source={require('../../assets/redo77.png')}
+            source={require('../assets/upgr/redo77.png')}
           />
         </TouchableOpacity>
       </View>

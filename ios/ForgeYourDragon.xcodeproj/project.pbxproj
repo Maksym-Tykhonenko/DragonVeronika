@@ -262,7 +262,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = ForgeYourDragon/ForgeYourDragon.entitlements;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ForgeYourDragon/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Forge Your Dragon";
@@ -293,7 +293,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = ForgeYourDragon/ForgeYourDragon.entitlements;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = ForgeYourDragon/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Forge Your Dragon";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
